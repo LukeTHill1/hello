@@ -9,9 +9,8 @@ It is was the first line of code I wrote in python
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
+I used python on VS code
 
-{Describe the programming language that you used}
 
 # Useful Websites
 
