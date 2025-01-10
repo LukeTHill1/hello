@@ -1,14 +1,11 @@
 # Overview
 
-{Important!  Do not say in this section that this is college assignment.  Talk about what you are trying to accomplish as a software engineer to further your learning.}
+I'm here to try new coding languages that I can't in on-campus classes and to expand my knowldge as a computer science major.
 
-{Provide a description of your software}
+It's a basic 'Hello world' python code.
 
-{Describe your purpose for creating this software.}
+It is was the first line of code I wrote in python
 
-{Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
-
-[Software Demo Video](http://youtube.link.goes.here)
 
 # Development Environment
 
@@ -18,6 +15,4 @@
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
+* [W3 School](https://www.w3schools.com/python/default.asp)
